@@ -90,7 +90,7 @@ def parse_month(url):
 
 
 def acumulative_add_elem(elem_list, dictionary, key):
-  """ Acumulative append and element to a list. """
+  """ Acumulative append an element to a list. """
 
   elem = 0
   
